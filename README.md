@@ -1,10 +1,3 @@
-Perfect ✅
-Below is a **professional README.md** for your repo: **PDF RAG Chatbot using Milvus Vector DB** (with grounding + context + confidence score).
-
-Just copy-paste this into your `README.md`.
-
----
-
 # 📄 PDF Chatbot using RAG + Milvus Vector DB
 
 A **Retrieval-Augmented Generation (RAG)** based chatbot that reads a **PDF document**, retrieves the most relevant content using **Milvus Vector Database**, and generates answers strictly from the retrieved PDF context.
