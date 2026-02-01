@@ -3,6 +3,7 @@
 A production-ready **Retrieval-Augmented Generation (RAG)** chatbot built with **FastAPI**, **LangChain**, and **OpenAI**. Intelligently retrieves context from multiple document sources (TXT, PDF) and generates accurate, context-aware responses.
 
 ---
+<img width="1898" height="719" alt="image" src="https://github.com/user-attachments/assets/532d506f-ae4d-43ae-a9c7-748b686f0c25" />
 
 ## 🚀 Features
 
